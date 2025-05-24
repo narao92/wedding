@@ -15,7 +15,7 @@ html body{
     align-items:center;
     width:30%;
     height:100vh;
-
+    margin: 0 auto;
     border: 2px solid #ffffff;
     border-radius: 20px;
     background: linear-gradient(
@@ -193,7 +193,7 @@ html body{
 
         @media(max-width: 768px){
             .principale{
-                min-width: 350px;
+                min-width: 380px;
                 height:90vh;
             }
         } 
