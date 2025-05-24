@@ -194,6 +194,6 @@ html body{
         @media(max-width: 768px){
             .principale{
                 min-width: 380px;
-                min-height:90vh;
+                max-height:100vh;
             }
         } 
