@@ -174,7 +174,7 @@ html body{
                -3px -3px 30px 0 #533d31,
                inset -10px -10px 50px 0 #aeaec078,
                inset 3px 3px 5px 0 #ffffff ;
-               margin-top: 50px;
+               margin-top: 30px;
                border: 2px solid #ffffff;
 
         }
@@ -194,6 +194,6 @@ html body{
         @media(max-width: 768px){
             .principale{
                 min-width: 380px;
-                max-height:90vh;
+                min-height:90vh;
             }
         } 
