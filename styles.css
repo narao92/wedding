@@ -193,7 +193,7 @@ html body{
 
         @media(max-width: 768px){
             .principale{
-                min-width: 400px;
-                height:100vh;
+                min-width: 350px;
+                height:90vh;
             }
         } 
